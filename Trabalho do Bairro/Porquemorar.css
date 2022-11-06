@@ -1,0 +1,76 @@
+.fundo {
+  width: 100%;
+  height: 2000px;
+  background-color: #969696;
+}
+
+.Telab {
+  border-color: #2e5200;
+  margin-top: 2%;
+  margin-left: 6%;
+  margin-right: 6%;
+  width: 87%;
+  height: 80%;
+  background-color: #2e5200;
+}
+
+.Bo {
+  border-color: #2e5200;
+  text-align: center;
+  width: 150px;
+  height: 80px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.Rodacima {
+  width: 100%;
+  height: 80px;
+  background-color: #2e5200;
+}
+
+.Logo {
+  width: 70px;
+  margin-left: -1px;
+  margin-top: -3px;
+}
+
+.botão {
+  width: 80px;
+  height: 70px;
+  margin-left: 20px;
+  margin-top: 6px;
+  background-color: #2e5200;
+  border-color: #2e5200;
+}
+
+.Te {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 80px;
+}
+
+.Tee {
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 160px;
+  margin-right: 100px ;
+}
+
+.Fotop {
+  position: absolute;
+  width: 500px;
+  height: 400px;
+  margin-top: 250px;
+  margin-left: 40%;
+}
+
+
+
+.iii{
+  margin-top: 1200px;
+  position: absolute;
+  width: 600px;
+  margin-left: 20%;
+}
+
